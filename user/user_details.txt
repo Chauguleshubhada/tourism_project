@@ -1,0 +1,13 @@
+siddhi,103,raigad, 2
+shubhada,103,raigad,3
+kunal,102,raigad,2
+prachi,103,kashmir,3
+shubhangi,103,kashmir,3
+pranav,103,kashmir,3
+satish,103,kashmir,2
+vedant shinde,103,kashmir,2
+Shashi Gokhaley,101,mahabaleshwar,2
+prakash,102,raigad,2
+Shubhada,102,raigad,2
+Siddhi Chaugule,102,raigad,2
+minakshi,102,raigad,2

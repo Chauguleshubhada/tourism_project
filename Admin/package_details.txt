@@ -1,0 +1,7 @@
+102,raigad,2000,05-January-2024,07-January-2024,2days
+103,kashmir,90000,07-January-2024,15-January-2024,8days
+104,kerla,2000,01-February-2024,10-February-2024,9days
+105,punjab,2000,03-February-2024,11-February-2024,8days
+106,canada,150000,01-February-2024,10-February-2024,9days
+107,new york,100000,10-January-2024,20-January-2024,10days
+108,goa,3000,10-January-2024,15-January-2024,5days
